@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Lisan al Gaib
 
-![poptocat2](https://octodex.github.com/images/poptocat_v2.png)
+![dunetocat](https://octodex.github.com/images/dunetocat.png)
 {: .center}
