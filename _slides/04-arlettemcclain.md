@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-update caption
+update caption conflict!
 
 ![kimonotocat](https://octodex.github.com/images/kimonotocat.png)
 {: .center}
